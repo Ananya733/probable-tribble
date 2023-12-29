@@ -1,1 +1,2 @@
-# probable-tribble
+# Exam Result Extraction
+This is a python program with a user interface designed using the tkinter python module. This program is custom designed to extract the end term results of students of colleges affiliated to osmania university. The program uses the concept of webscraping to extract end term results. With the help of modules such as beautifulsoup4, requests, and openpyxl, end term results of each student are fetched from the results page of the official website of osmania university and then collected and organized into an excel spreadsheet which can be used to analyse the performance of students and calculate useful metrics such as pass percentages.
